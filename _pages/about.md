@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 A website for data-driven burst detection in water distribution systems 
 ======
 This is the official website for burst detection in water distribution systems in the University of Arizona
