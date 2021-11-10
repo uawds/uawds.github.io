@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: ""
 permalink: /methodology/
 author_profile: true
