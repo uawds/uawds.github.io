@@ -1,6 +1,6 @@
 ---
 title: "Sanghoon Jung"
-excerpt: "PhD Candidate in Civil and Architectural Engineering and Mechanics, the University of Arizona"
+excerpt: "PhD Candidate, Civil and Architectural Engineering and Mechanics, the University of Arizona"
 collection: portfolio
 ---
 
