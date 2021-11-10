@@ -1,6 +1,6 @@
 ---
 title: "Yinwei Zhang"
-excerpt: "PhD Candidate in Systems and Industrial Engineering, the University of Arizona"
+excerpt: "PhD Candidate, Systems and Industrial Engineering, the University of Arizona"
 collection: portfolio
 ---
 
