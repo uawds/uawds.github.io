@@ -1,6 +1,6 @@
 ---
 title: "Shenghao Xia"
-excerpt: "PhD Candidate in Statistics, the University of Arizona"
+excerpt: "PhD Candidate, Statistics, the University of Arizona"
 collection: portfolio
 ---
 
