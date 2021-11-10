@@ -12,4 +12,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-This is the page for all the data generated
+This is the page for all the data generated!
