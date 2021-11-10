@@ -11,3 +11,6 @@ main:
     
   - title: "Synthetic Data"
     url: /synthetic_data/
+
+  - title: "Methodology"
+    url: /methodology/
