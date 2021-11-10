@@ -10,7 +10,7 @@ main:
     url: /portfolio/
     
   - title: "Synthetic Data"
-    url: /synthetic_data/
+    url: /sync/
 
   - title: "Methodology"
     url: /methodology/
