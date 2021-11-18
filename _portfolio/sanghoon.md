@@ -1,5 +1,5 @@
 ---
-title: "Sanghoon Jung"
+title: "Sanghoon Jun"
 excerpt: "PhD Candidate, Civil and Architectural Engineering and Mechanics, the University of Arizona"
 collection: portfolio
 ---
