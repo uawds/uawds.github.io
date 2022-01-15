@@ -2,7 +2,7 @@
 title: "Detecting Bursts in Water Distribution System via PenalizedFunctional Decomposition"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the burst detection in the WDS based on penalized functional decomposition.'
 date: 2020-10
 venue: 'Conference 1'
 paperurl: 'https://ieeexplore.ieee.org/document/9309770'
