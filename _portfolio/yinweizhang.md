@@ -4,4 +4,4 @@ excerpt: "PhD Candidate, Systems and Industrial Engineering, the University of A
 collection: portfolio
 ---
 
-[More information here](https://yinwei-zhang.github.io/)
+[More information about Yinwei Zhang is here](https://yinwei-zhang.github.io/)
