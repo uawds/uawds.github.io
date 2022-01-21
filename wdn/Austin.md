@@ -7,5 +7,6 @@ collection: Application Network
 * Transmission oriented system
 * Daily average system demand: 726 L/s
 * Total pipe length: 82.6 km
-* applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">"Detecting Bursts in Water Distribution System via Penalized Functional Decomposition"(/a>
+* applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">"Detecting Bursts in Water Distribution System via Penalized Functional Decomposition"</a>
+
 ![image-center](/images/Austin network.jpg)
