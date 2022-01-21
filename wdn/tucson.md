@@ -13,4 +13,4 @@ collection: Application Network
 [click here](https://github.com/uawds/uawds.github.io/blob/master/images/Tucson network.png)
 [click here](https://nsf.gov/awardsearch/showAward?AWD_ID=1762862&HistoricalAwards=false)
 
-<br/><img src='/images/Austin network.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
+<br/><img src='/images/Austin network.png' width="100%" height="100%" class="center">
