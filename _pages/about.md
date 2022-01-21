@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 This is the official website for burst detection in water distribution systems in the University of Arizona
+![image-center](/images/overview.png)
 
 Synthetic data generation
 ------
