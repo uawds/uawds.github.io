@@ -1,13 +1,5 @@
 ---
 title: "Austin network"
-excerpt: "This system is derived from a real network in Austin, Texas"
+excerpt: "This network is a transmission oriented system (daily average demand 726 L/s, total pipe length 82.6 km). <br/><img src='/images/Austin network.png'>"
 collection: Application Network
 ---
-## Network information
-* Transmission oriented system
-* Daily average system demand: 726 L/s
-* Total pipe length: 82.6 km
-* applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">"Detecting Bursts in Water Distribution System via Penalized Functional Decomposition"</a>
-
-## Image of the network
-<br/><img src='/images/Austin network.png' width="70%" height="70%">
