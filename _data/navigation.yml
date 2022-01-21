@@ -8,14 +8,13 @@ main:
 
   - title: "Team Members"
     url: /portfolio/
-    
-  - title: "Application Network"
-    url: /wdn/
-    
+
   - title: "Synthetic Data"
     url: /sync/
 
   - title: "Methodology"
     url: /methodology/
-
+    
+  - title: "Application Network"
+    url: /wdn/
 
