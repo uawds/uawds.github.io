@@ -11,3 +11,5 @@ collection: Application Network
 
 ## Image of the network
 ![image-center](/images/Austin network.jpg)
+
+<br/><img src='/images/Austin network.jpg' width="70%" height="70%">
