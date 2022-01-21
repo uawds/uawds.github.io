@@ -10,4 +10,4 @@ collection: Application Network
 * applied in <a href="https://ascelibrary.org/doi/full/10.1061/%28ASCE%29WR.1943-5452.0001477" target="_blank" rel="noopener noreferrer">"Comparison of Imputation Methods for End-User Demands in Water Distribution Systems"(/a>
   
 ## Image of the network 
-[click here](/images/Tucson network.png)
+[click here](https://github.com/uawds/uawds.github.io/blob/master/images/Tucson network.png)
