@@ -10,6 +10,4 @@ collection: Application Network
 * applied in <a href="https://ieeexplore.ieee.org/abstract/document/9309770" target="_blank" rel="noopener noreferrer">"Detecting Bursts in Water Distribution System via Penalized Functional Decomposition"</a>
 
 ## Image of the network
-![image-center](/images/Austin network.jpg)
-
-<br/><img src='/images/Austin network.jpg' width="70%" height="70%">
+<br/><img src='/images/Austin network.png' width="70%" height="70%">
